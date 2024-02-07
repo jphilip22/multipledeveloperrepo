@@ -6,5 +6,5 @@ another commit
 another commit from devloper1
 adding code from developer1
 
-addition from developer2
 developer1 adition
+addition from developer2
